@@ -12,6 +12,7 @@ Google whats my ip address and make a note of your public ip address we will nee
 
 ![Screenshot 2025-04-08 145717](https://github.com/user-attachments/assets/4bcdc783-408e-4e43-b385-3b2e7b126ebe)
 
+![Screenshot 2025-04-08 145747](https://github.com/user-attachments/assets/0438f6a2-d4fc-4ff8-9d66-7d9708f78352)
 
 ![Screenshot 2025-04-08 143037](https://github.com/user-attachments/assets/11f32ebd-37e0-469b-a15e-911e3db0a1ae)
 
