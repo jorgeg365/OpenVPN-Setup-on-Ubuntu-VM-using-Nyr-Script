@@ -62,11 +62,16 @@ Importing the profile.
 Connecting and verifying your new IP address.
 
 Type the following command stop the OpenVPN service:
+```bash
 $ sudo systemctl stop openvpn@server
+```
 Type the following command start the OpenVPN service:
+```bash
 $ sudo systemctl start openvpn@server
+```
 Type the following command restart the OpenVPN service:
+```bash
 $ sudo systemctl restart openvpn@server
-
+```
 ## 🙌 Credits
 Huge thanks to Nyr for the auto-install script that makes VPN setup quick and easy.
