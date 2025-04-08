@@ -35,12 +35,6 @@ DNS provider (Google, Cloudflare, etc.)
 Pick Google
 
 Create client name (e.g., client1.ovpn)
-### 👤 Client Profile Created
-![Screenshot 2025-04-08 143047](https://github.com/user-attachments/assets/db2dfdfa-07e9-42ef-82fa-8079c402a9b7)
-
-![Screenshot 2025-04-08 143105](https://github.com/user-attachments/assets/221ced53-79f0-4033-984e-972f3a2306a9)
-
-![Screenshot 2025-04-08 143131](https://github.com/user-attachments/assets/0d393245-ef73-4364-a380-93f75fb826df)
 
 ## 🔑 Client File Location
 The .ovpn file will be generated in your home directory:
@@ -53,6 +47,13 @@ The .ovpn file will be generated in your home directory:
 
 
 Transfer this file to your VPN client device to connect securely.
+
+### 👤 Add more clients
+![Screenshot 2025-04-08 143047](https://github.com/user-attachments/assets/db2dfdfa-07e9-42ef-82fa-8079c402a9b7)
+
+![Screenshot 2025-04-08 143105](https://github.com/user-attachments/assets/221ced53-79f0-4033-984e-972f3a2306a9)
+
+![Screenshot 2025-04-08 143131](https://github.com/user-attachments/assets/0d393245-ef73-4364-a380-93f75fb826df)
 
 ## 🧪 Testing the VPN
 You can test your VPN connection by:
