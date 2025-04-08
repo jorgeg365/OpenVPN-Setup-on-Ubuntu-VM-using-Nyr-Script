@@ -5,30 +5,8 @@ This project walks you through installing and configuring an OpenVPN server on a
 
 ---
 
-## 📸 Setup Previews
-
 ### 🧱 Installation Start
 Google whats my ip address and make a note of your public ip address we will need it for the set-up
-
-![Screenshot 2025-04-08 145717](https://github.com/user-attachments/assets/4bcdc783-408e-4e43-b385-3b2e7b126ebe)
-
-![Screenshot 2025-04-08 145747](https://github.com/user-attachments/assets/0438f6a2-d4fc-4ff8-9d66-7d9708f78352)
-
-![Screenshot 2025-04-08 143037](https://github.com/user-attachments/assets/11f32ebd-37e0-469b-a15e-911e3db0a1ae)
-
-
-### 👤 Client Profile Created
-![Screenshot 2025-04-08 143047](https://github.com/user-attachments/assets/db2dfdfa-07e9-42ef-82fa-8079c402a9b7)
-
-![Screenshot 2025-04-08 143105](https://github.com/user-attachments/assets/221ced53-79f0-4033-984e-972f3a2306a9)
-
-![Screenshot 2025-04-08 143131](https://github.com/user-attachments/assets/0d393245-ef73-4364-a380-93f75fb826df)
-
-
-
-### 📂 Client Config Output location
-![Screenshot 2025-04-08 143204](https://github.com/user-attachments/assets/33ef0e72-9827-417e-8850-a1d8635bcb59)
-
 
 ---
 
@@ -57,12 +35,23 @@ DNS provider (Google, Cloudflare, etc.)
 Pick Google
 
 Create client name (e.g., client1.ovpn)
+### 👤 Client Profile Created
+![Screenshot 2025-04-08 143047](https://github.com/user-attachments/assets/db2dfdfa-07e9-42ef-82fa-8079c402a9b7)
+
+![Screenshot 2025-04-08 143105](https://github.com/user-attachments/assets/221ced53-79f0-4033-984e-972f3a2306a9)
+
+![Screenshot 2025-04-08 143131](https://github.com/user-attachments/assets/0d393245-ef73-4364-a380-93f75fb826df)
 
 ## 🔑 Client File Location
 The .ovpn file will be generated in your home directory:
 ```bash
 /home/your-username/<name-of-client>.ovpn
 ```
+### 📂 Client Config Output location
+![Screenshot 2025-04-08 143204](https://github.com/user-attachments/assets/33ef0e72-9827-417e-8850-a1d8635bcb59)
+
+
+
 Transfer this file to your VPN client device to connect securely.
 
 ## 🧪 Testing the VPN
