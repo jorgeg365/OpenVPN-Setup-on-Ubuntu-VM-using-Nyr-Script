@@ -52,7 +52,7 @@ The .ovpn file will be generated in your home directory:
 ```
 Transfer this file to your VPN client device to connect securely.
 
-##🧪 Testing the VPN
+## 🧪 Testing the VPN
 You can test your VPN connection by:
 
 Downloading the .ovpn file to a VPN client (e.g., OpenVPN app).
@@ -61,5 +61,12 @@ Importing the profile.
 
 Connecting and verifying your new IP address.
 
-##🙌 Credits
+Type the following command stop the OpenVPN service:
+$ sudo systemctl stop openvpn@server
+Type the following command start the OpenVPN service:
+$ sudo systemctl start openvpn@server
+Type the following command restart the OpenVPN service:
+$ sudo systemctl restart openvpn@server
+
+## 🙌 Credits
 Huge thanks to Nyr for the auto-install script that makes VPN setup quick and easy.
