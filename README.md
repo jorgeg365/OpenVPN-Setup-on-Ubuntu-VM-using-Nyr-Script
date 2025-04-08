@@ -49,6 +49,8 @@ The .ovpn file will be generated in your home directory:
 Transfer this file to your VPN client device to connect securely.
 
 ### 👤 Add more clients
+![Screenshot 2025-04-08 143037](https://github.com/user-attachments/assets/e65902a4-61ee-4654-8f93-0bb3108d90e4)
+
 ![Screenshot 2025-04-08 143047](https://github.com/user-attachments/assets/db2dfdfa-07e9-42ef-82fa-8079c402a9b7)
 
 ![Screenshot 2025-04-08 143105](https://github.com/user-attachments/assets/221ced53-79f0-4033-984e-972f3a2306a9)
