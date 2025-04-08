@@ -20,6 +20,7 @@ sudo apt update && sudo apt upgrade -y
 ```bash
 wget https://git.io/vpn -O openvpn-install.sh
 ```
+![Screenshot 2025-04-08 145717](https://github.com/user-attachments/assets/dd240e8b-ef12-43a3-a67e-139c15f8b31e)
 
 ### 3. Run the installer
 ```bash
