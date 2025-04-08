@@ -7,14 +7,18 @@ This project walks you through installing and configuring an OpenVPN server on a
 
 ## 📸 Setup Previews
 
-> Screenshots showing the process. Place your images in the `screenshots/` folder.
-
 ### 🧱 Installation Start
 ![Screenshot 2025-04-08 143037](https://github.com/user-attachments/assets/11f32ebd-37e0-469b-a15e-911e3db0a1ae)
 
 
 ### 👤 Client Profile Created
-![Client Profile](screenshots/step2-client-creation.png)
+![Screenshot 2025-04-08 143047](https://github.com/user-attachments/assets/db2dfdfa-07e9-42ef-82fa-8079c402a9b7)
+
+![Screenshot 2025-04-08 143105](https://github.com/user-attachments/assets/221ced53-79f0-4033-984e-972f3a2306a9)
+
+![Screenshot 2025-04-08 143131](https://github.com/user-attachments/assets/0d393245-ef73-4364-a380-93f75fb826df)
+
+
 
 ### 📂 Client Config Output
 ![Client Config](screenshots/step3-client-config.png)
