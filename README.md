@@ -48,7 +48,7 @@ Create client name (e.g., jorge.ovpn)
 ## 🔑 Client File Location
 The .ovpn file will be generated in your home directory:
 ```bash
-/home/your-username/jorge.ovpn
+/home/your-username/<name-of-client>.ovpn
 ```
 Transfer this file to your VPN client device to connect securely.
 
