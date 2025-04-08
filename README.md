@@ -21,7 +21,8 @@ This project walks you through installing and configuring an OpenVPN server on a
 
 
 ### 📂 Client Config Output
-![Client Config](screenshots/step3-client-config.png)
+![Screenshot 2025-04-08 143204](https://github.com/user-attachments/assets/33ef0e72-9827-417e-8850-a1d8635bcb59)
+
 
 ---
 
