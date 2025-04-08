@@ -54,7 +54,8 @@ Follow the prompts:
 Default port (1194)
 
 DNS provider (Google, Cloudflare, etc.)
-I chose Google
+Pick Google
+
 Create client name (e.g., client1.ovpn)
 
 ## 🔑 Client File Location
