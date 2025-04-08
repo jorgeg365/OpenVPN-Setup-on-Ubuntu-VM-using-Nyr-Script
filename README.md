@@ -26,7 +26,7 @@ Google whats my ip address and make a note of your public ip address we will nee
 
 
 
-### 📂 Client Config Output
+### 📂 Client Config Output location
 ![Screenshot 2025-04-08 143204](https://github.com/user-attachments/assets/33ef0e72-9827-417e-8850-a1d8635bcb59)
 
 
