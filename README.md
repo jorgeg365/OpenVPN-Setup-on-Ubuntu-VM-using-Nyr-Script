@@ -47,4 +47,16 @@ Create client name (e.g., jorge.ovpn)
 
 ## 🔑 Client File Location
 The .ovpn file will be generated in your home directory:
+```bash
+/home/your-username/jorge.ovpn
+```
+Transfer this file to your VPN client device to connect securely.
 
+##🧪 Testing the VPN
+You can test your VPN connection by:
+
+Downloading the .ovpn file to a VPN client (e.g., OpenVPN app).
+
+Importing the profile.
+
+Connecting and verifying your new IP address.
