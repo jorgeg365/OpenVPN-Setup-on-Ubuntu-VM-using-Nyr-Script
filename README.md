@@ -48,8 +48,8 @@ Follow the prompts:
 Default port (1194)
 
 DNS provider (Google, Cloudflare, etc.)
-
-Create client name (e.g., jorge.ovpn)
+I chose Google
+Create client name (e.g., client1.ovpn)
 
 ## 🔑 Client File Location
 The .ovpn file will be generated in your home directory:
