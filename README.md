@@ -36,6 +36,9 @@ DNS provider (Google, Cloudflare, etc.)
 Pick Google
 
 Create client name (e.g., client1.ovpn)
+Sample
+![Screenshot 2025-04-08 145747](https://github.com/user-attachments/assets/5bca8efb-08dc-44fb-a10e-1a6edf9e90b0)
+
 
 ## 🔑 Client File Location
 The .ovpn file will be generated in your home directory:
