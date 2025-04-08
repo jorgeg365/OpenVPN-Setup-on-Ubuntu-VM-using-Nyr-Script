@@ -45,3 +45,6 @@ DNS provider (Google, Cloudflare, etc.)
 
 Create client name (e.g., jorge.ovpn)
 
+# Client File Location
+The .ovpn file will be generated in your home directory:
+
