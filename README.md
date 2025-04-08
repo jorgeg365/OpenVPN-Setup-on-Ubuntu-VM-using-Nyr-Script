@@ -8,6 +8,11 @@ This project walks you through installing and configuring an OpenVPN server on a
 ## 📸 Setup Previews
 
 ### 🧱 Installation Start
+Google whats my ip address and make a note of your public ip address we will need it for the set-up
+
+![Screenshot 2025-04-08 145717](https://github.com/user-attachments/assets/4bcdc783-408e-4e43-b385-3b2e7b126ebe)
+
+
 ![Screenshot 2025-04-08 143037](https://github.com/user-attachments/assets/11f32ebd-37e0-469b-a15e-911e3db0a1ae)
 
 
