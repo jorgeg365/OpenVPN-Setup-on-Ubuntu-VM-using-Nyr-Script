@@ -57,6 +57,16 @@ Transfer this file to your VPN client device to connect securely.
 
 ![Screenshot 2025-04-08 143131](https://github.com/user-attachments/assets/0d393245-ef73-4364-a380-93f75fb826df)
 
+## 📤 Port Forwarding Rule (for OpenVPN)
+To allow VPN clients to connect to your OpenVPN server from outside your local network, you need to forward the port on your router or cloud firewall.
+
+```bash
+Protocol: UDP
+Port:     1194
+Internal IP: <Your Ubuntu VM's IP address>
+Internal Port: 1194
+```
+
 ## 🧪 Testing the VPN
 You can test your VPN connection by:
 
