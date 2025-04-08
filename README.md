@@ -60,3 +60,6 @@ Downloading the .ovpn file to a VPN client (e.g., OpenVPN app).
 Importing the profile.
 
 Connecting and verifying your new IP address.
+
+##🙌 Credits
+Huge thanks to Nyr for the auto-install script that makes VPN setup quick and easy.
