@@ -1,4 +1,4 @@
-# OpenVPN-Setup-on-Ubuntu-VM-using-Nyr-Script
+OpenVPN-Setup-on-Ubuntu-VM-using-Nyr-Script
 # 🌐 OpenVPN Setup on Ubuntu VM using Nyr Script
 
 This project walks you through installing and configuring an OpenVPN server on an Ubuntu virtual machine using the community-trusted [Nyr OpenVPN install script](https://github.com/Nyr/openvpn-install).
